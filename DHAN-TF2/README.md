@@ -1,4 +1,4 @@
-![img.png](img.png)
+![](img.png)
 - use script in utils to process Amazon electronic dataset.
 - environment:
     - python3.8
